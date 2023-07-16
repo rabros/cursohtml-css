@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+header{
+    background-color: blueviolet;
+}
+
+header > h1{
+    text-align: center;
+}
+
+header > p{
+    text-align: center;
+    background-color: aqua;
+    margin: 0px;
+}
